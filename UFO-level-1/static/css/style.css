@@ -173,12 +173,12 @@ select {
     font-size: 1.25em;
   }
 
-  #table-area tbody td {
+  #table-area body td {
     display: block;
     text-align: center;
   }
 
-  #table-area tbody td::before {
+  #table-area body td::before {
     display: block;
     font-size: 1.4em;
     font-weight: bold;
